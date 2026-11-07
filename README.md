@@ -9,3 +9,7 @@ leaning Git
 ## What I learned about branches
 
 A branch lets me work on changes separately before merging them.
+
+## Practising Git on my Mac
+
+I changed this file in my local repository.
