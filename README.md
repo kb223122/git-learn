@@ -17,3 +17,7 @@ I changed this file in my local repository.
 ## Pull practice
 
 This line was added on GitHub.
+
+## Mac branch practice
+
+This change is on my separate local branch.
